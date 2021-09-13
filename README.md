@@ -1,7 +1,7 @@
 # Kryptonic
 ### 16x16-pixel PvP Texture Pack
 **Changes**:-
-- Skin
+- Skin (edited from original skin "[Steve President](https://minecraft.novaskin.me/skin/3617943080/Steve-President)" of minecraft and then converted to minetest skin)
 - GUI Background
 - GUI Input Background
 - Ores
